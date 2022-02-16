@@ -7,6 +7,8 @@
 
 import Foundation
 
+
+// MARK: Change the path to the path where you want to save the export
 let path: String = "/Volumes/LaCie/Devscorch Platform/Exports/Courses/Learn Swift 5 and UIKit/Section 2 Swift for beginners/"
 
 
